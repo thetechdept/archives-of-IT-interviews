@@ -2,7 +2,7 @@
       "name": "Interview Page Redesign",
       "version": "0.1.0",
       "private": true,
-      "homepage": "https://YOUR_USERNAME.github.io/interview-page-redesign",
+      "homepage": "https://thetechdept.github.io/archives-of-IT-interviews",
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
             "@radix-ui/react-alert-dialog": "^1.1.6",
