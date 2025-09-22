@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ gh_pages ]
+    branches: [ deploy_to_GH_pages ]
   workflow_dispatch:
 
 permissions:
