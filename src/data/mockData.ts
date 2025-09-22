@@ -102,7 +102,7 @@ export const mockInterviews: Interview[] = [
     summary: 'Linus Torvalds reflects on the journey of Linux, the philosophy of open source development, and its impact on the technology industry.',
     themes: ['Open Source', 'Linux', 'Software Development'],
     industry: 'Operating Systems',
-    decade: '2010s',
+    decade: '2020s',
     videoUrl: 'https://example.com/video3.mp4',
     thumbnailUrl: 'DISABLEDForWireframe::https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop'
   },
